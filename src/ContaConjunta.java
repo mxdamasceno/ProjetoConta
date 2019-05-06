@@ -1,4 +1,4 @@
-public class ContaCorrente extends ContaBancaria implements OperacoesFinanceiras {
+public class ContaConjunta implements OperacoesFinanceiras {
     @Override
     public void aplicacaoCDB() {
 

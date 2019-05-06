@@ -1,5 +1,5 @@
 public interface OperacoesFinanceiras {
-    void aplicacaoDB();
+    void aplicacaoCDB();
     void aplicacaoCDI();
 
 }
